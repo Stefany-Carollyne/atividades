@@ -6,4 +6,5 @@ int main() {
   scanf("%i", &num2);
   soma = num1 + num2;
   printf("A soma e :%i, soma);
+  return 0;
 }
