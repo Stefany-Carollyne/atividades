@@ -1,8 +1,8 @@
 int main() {
   float num1, num2, num3, soma, subtracao, multiplicacao,divisao;
-  printf("digite o primeiro numero: ");
+  printf("digite o primeiro numero");
   scanf("%f", &num1);
-  printf("digite o segundo numero: ");
+  printf("digite o segundo numero");
   scanf("%f", &num2);
   printf("digite o terceiro numero");
   scanf("%f", &num3);
