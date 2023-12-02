@@ -10,7 +10,7 @@ int main() {
   subtracao = num1 - num2 - num3;
   multiplicacao = num1 * num2 * num3;
   printf("A soma e: %i", soma);
-  printf("A subtração e: %i", subtracao);
-  printf("A multiplicação e :%i", multiplicacao);
+  printf("A subtracao e: %i", subtracao);
+  printf("A multiplicacao e :%i", multiplicacao);
   return 0;
 }
