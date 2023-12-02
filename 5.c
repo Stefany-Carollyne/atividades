@@ -9,8 +9,8 @@ float main() {
   multiplicacao = num1 * num2;
   divisao = num1 / num2
   printf("a soma e: %f", soma);
-  printf("a subtração e: %f", subtracao);
-  printf("a multiplicação e: %f", multiplicacao);
+  printf("a subtracao e: %f", subtracao);
+  printf("a multiplicacao e: %f", multiplicacao);
   printf("a divisao e: %f", divisao);
     return 0;
 }
