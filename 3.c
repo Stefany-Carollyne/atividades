@@ -8,7 +8,7 @@ int main() {
   subtracao = num1 - num2;
   multiplicacao = num1 * num2;
   printf("A soma e: %i", soma);
-  printf("A subtração dos números e: %i", subtracao);    
-  printf("A multiplicação dos números e: %i", multiplicacao);
+  printf("A subtraÃ§Ã£o e: %i", subtracao);    
+  printf("A multiplicaÃ§Ã£o e: %i", multiplicacao);
   return 0;
 }
